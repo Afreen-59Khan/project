@@ -21,4 +21,6 @@ class Studentm extends CI_Model
 				return false;
 
 	}
+	//suppose i make some changes here and then save the project. after that i will push it to git. so ...
+	//i saved the controller, now go to the ci folder
 }
